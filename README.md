@@ -1,6 +1,9 @@
 # udemy_project
 
-# when making changes always commit to github:
+## documentation to Markdown.md
+[Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+## when making changes always commit to github:
 this is the general flow
 - git clone:
   - `$ git clone PROJECT_URL_HERE`
@@ -18,7 +21,7 @@ this is the general flow
   - `$ git pull`
     - If anyone has made changes to the the porject "pull" the changes into your local copy
 
-# Navigating you computer
+## Navigating you computer
 - `$ cd`
   - This command is to "change directory"
 - `$ ls`
