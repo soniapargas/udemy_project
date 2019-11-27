@@ -8,6 +8,7 @@ this is the general flow
 - add changes:
   - `$ git add .`
     - `$ git add .` means "add all of the changes that have been made"
+    - or do `$ git add PATH_TO_FILE` if you just want to commit changes for 1 file
 - commit changes
   - `$ git commit -m "you include a message describing all of the changes you have made here and why"`
 - push changes to git server/host
